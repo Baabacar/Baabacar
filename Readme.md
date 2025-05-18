@@ -14,6 +14,26 @@
     <h5> - 🔭 I’m currently working on **secret project** </h5>
 </div>
 
+
+```json
+const BabacarNdiaye = {
+    name: "Babacar NDIAYE",
+    role: "Full-Stack Developer",
+    location: "Dakar, Senegal 🇸🇳",
+    specialties: {
+        Programming Languages : ["Go", "Rust", "C", "python", "Java", ],
+        backend: ["Java Spring Boot", "Node.js", "Go", "Rust", "Express.js"],
+        web: ["React", "Angular", "Next.js"],
+        mobile: ["Flutter", "Kotlin"],
+        database: ["MySQL", "MongoDB", "Sqlite"],
+        design: ["Figma", "Framer", "Photoshop"],
+        devops: ["Docker", "Ansible"]
+    },
+    experience: "2023 - Present",
+    motto: "Code with passion, build with purpose! 💻✨"
+};
+```
+
 <h2 align="left">Skills:</h2>
 
 <h3 align="left">Programming Languages:</h3>
