@@ -15,7 +15,7 @@
 </div>
 
 
-```json
+```javascript
 const BabacarNdiaye = {
     name: "Babacar NDIAYE",
     role: "Full-Stack Developer",
