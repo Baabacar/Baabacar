@@ -158,3 +158,17 @@ const BabacarNdiaye = {
         </a>
     </p>
 </div>
+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Baabacar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Baabacar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baabacar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
