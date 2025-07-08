@@ -38,11 +38,11 @@ const BabacarNdiaye = {
 
 <div align="center" style="line-height: 1.5;">
   <!-- Langages -->
-  <img src="https://skillicons.dev/icons?i=golang,rust,c,java,python,html,css,javascript,typescript,php,react,Express,dart,flutter,Node.js,Kotlin" alt="Langages" />
+  <img src="https://skillicons.dev/icons?i=golang,rust,c,java,python,html,css,javascript,typescript,php,react,express,dart,flutter,node.js,kotlin" alt="Langages" />
   <!-- IDE et outils -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,notion,git,github,gitea,firebase,figma,Photoshop,Framer,Docker,Ansible,vagrant" alt="IDE et outils" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,notion,git,github,gitea,firebase,figma,photoshop,framer,docker,ansible,vagrant" alt="IDE et outils" /><br>
   <!-- Oracle et SQL -->
-  <img src="https://skillicons.dev/icons?i=oracle,sql,Sqlite,MongoDB,MySQL" alt="Bases de données" />
+  <img src="https://skillicons.dev/icons?i=oracle,sql,sqlite,mongoDB,mySQL" alt="Bases de données" />
 </div>
 
 
