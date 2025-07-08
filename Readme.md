@@ -38,9 +38,9 @@ const BabacarNdiaye = {
 
 <div align="center" style="line-height: 1.5;">
   <!-- Langages -->
-  <img src="https://skillicons.dev/icons?i=golang,rust,c,java,python,html,css,javascript,typescript,php,react,express,dart,flutter,node.js,kotlin" alt="Langages" />
+  <img src="https://skillicons.dev/icons?i=golang,rust,c,java,python,html,css,javascript,typescript,php,react,express,dart,flutter,node.js,kotlin" alt="Langages" /><br>
   <!-- IDE et outils -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,notion,git,github,gitea,firebase,figma,photoshop,framer,docker,ansible,vagrant" alt="IDE et outils" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,notion,git,github,firebase,figma,photoshop,docker,ansible,vagrant" alt="IDE et outils" /><br>
   <!-- Oracle et SQL -->
   <img src="https://skillicons.dev/icons?i=oracle,sql,sqlite,mongodb,mysql" alt="Bases de données" />
 </div>
