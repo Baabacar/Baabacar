@@ -44,9 +44,7 @@ const BabacarNdiaye = {
   <!-- IDE et outils -->
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,notion,git,github,firebase,figma,photoshop" alt="IDE et outils" /><br>
   <!-- IDE et outils -->
-  <img src="https://skillicons.dev/icons?i=docker,ansible,vagrant,kubernetes,jenkins" alt="IDE et outils" /><br>
-  <!-- Oracle et SQL -->
-  <img src="https://skillicons.dev/icons?i=aws,sql,sqlite,mongodb,mysql" alt="Bases de données" />
+  <img src="https://skillicons.dev/icons?i=docker,ansible,kubernetes,jenkins,aws,sqlite,mongodb,mysql" alt="IDE et outils" /><br>
 </div>
 
 
