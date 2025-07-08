@@ -42,7 +42,7 @@ const BabacarNdiaye = {
   <!-- IDE et outils -->
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,notion,git,github,gitea,firebase,figma,photoshop,framer,docker,ansible,vagrant" alt="IDE et outils" /><br>
   <!-- Oracle et SQL -->
-  <img src="https://skillicons.dev/icons?i=oracle,sql,sqlite,mongoDB,mySQL" alt="Bases de données" />
+  <img src="https://skillicons.dev/icons?i=oracle,sql,sqlite,mongodb,mysql" alt="Bases de données" />
 </div>
 
 
