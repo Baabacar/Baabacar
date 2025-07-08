@@ -40,7 +40,7 @@ const BabacarNdiaye = {
   <!-- Langages -->
   <img src="https://skillicons.dev/icons?i=golang,rust,c,java,python,html,css,javascript" alt="Langages" /><br>
   <!-- Langages -->
-  <img src="https://skillicons.dev/icons?i=typescript,php,react,express,dart,flutter,node,kotlin" alt="Langages" /><br>
+  <img src="https://skillicons.dev/icons?i=typescript,php,react,express,dart,flutter,nodejs,kotlin" alt="Langages" /><br>
   <!-- IDE et outils -->
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,notion,git,github,firebase,figma,photoshop" alt="IDE et outils" /><br>
   <!-- IDE et outils -->
